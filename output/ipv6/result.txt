@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-04-15 19:01:51,https://iptv.catvod.com/live.php?id=CCTV4K%E8%B6%85%E9%AB%98%E6%B8%85&line=1$订阅源
+2026-04-17 18:58:21,https://iptv.catvod.com/live.php?id=CCTV4K%E8%B6%85%E9%AB%98%E6%B8%85&line=1$订阅源
 
 📺央视频道,#genre#
 CCTV-4,https://iptv.catvod.com/live.php?id=CCTV4K%E8%B6%85%E9%AB%98%E6%B8%85&line=1$订阅源
@@ -10,6 +10,9 @@ CCTV-4,https://iptv.catvod.com/live.php?id=CCTV4K%E8%B6%85%E9%AB%98%E6%B8%85&lin
 CCTV-4,https://iptv.catvod.com/live.php?id=CCTV4K%E8%B6%85%E9%AB%98%E6%B8%85&line=6$订阅源
 CCTV-4,https://iptv.catvod.com/live.php?id=CCTV4K%E8%B6%85%E9%AB%98%E6%B8%85&line=7$订阅源
 CCTV-4,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8$订阅源
+CCTV-6,http://pull-hls-f11.douyincdn.com/media/stream-695661786906493612.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1776982413&major_anchor_level=common&sign=f9b38953294dc9382f27b29d0cbc0202&t_id=037-20260417061332958A24DAFCB89C5600AB-h4zSDn$订阅源
+CCTV-6,http://pull-hls-f11.douyincdn.com/media/stream-695661786906493612.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1776982413&major_anchor_level=common&sign=f9b38953294dc9382f27b29d0cbc0202&t_id=037-20260417061332958A24DAFCB89C5600AB-h4zSDn$订阅源
+CCTV-6,http://pull-hls-f11.douyincdn.com/media/stream-695661786906493612.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1776906237&major_anchor_level=common&sign=ddcd6089cb8edea3eb08cddfb4729b21&t_id=037-20260416090356FD2B01904532B1DF9B07-RJ3RCM$订阅源
 CCTV-6,https://epg.pw/stream/753fe6b20478c17a39f0c17d3c8d98a74cd5890a6e40f4ce011380f2dd185285.m3u8$订阅源
 CCTV-6,https://epg.pw/stream/753fe6b20478c17a39f0c17d3c8d98a74cd5890a6e40f4ce011380f2dd185285.m3u8$订阅源
 CCTV-8,https://iptv.catvod.com/live.php?id=CCTV8$订阅源
@@ -38,9 +41,9 @@ CCTV-13,https://cdn3.163189.xyz/163189/cctv13$订阅源
 CCTV-13,https://iptv.catvod.com/live.php?id=CCTV-13%20%E6%96%B0%E9%97%BB$订阅源
 CCTV-13,https://iptv.catvod.com/live.php?id=CCTV13$订阅源
 CCTV-13,https://iptv.catvod.com/live.php?id=CCTV-13$订阅源
-CCTV-13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8$订阅源
-CCTV-13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8$订阅源
-CCTV-13,https://epg.pw/stream/5d3d047c64e44d0a24dc33e5700e579457201d2960036b43819bd930a0bb76a7.m3u8$订阅源
+CCTV-13,http://pull-hls-f11.douyincdn.com/media/stream-695446699977474732.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1773710295&major_anchor_level=common&sign=e813ef8bf243558424c1815b821957c1&t_id=037-20260310091814B8A5ABDAA2CCCB7F614D-6dGMwb$订阅源
+CCTV-13,http://pull-hls-f11.douyincdn.com/media/stream-695465280141001388.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1773914533&major_anchor_level=common&sign=00e2ac87499b260c729b1f091036f02a&t_id=037-20260312180213C90050E21D269F317686-un9xrW$订阅源
+CCTV-13,http://pull-hls-f11.douyincdn.com/media/stream-695440843385864876.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1773804633&major_anchor_level=common&sign=2109708d3a2da5de3a916933ce117b28&t_id=037-20260311113033D59DBA10999672734FAF-UWe230$订阅源
 CCTV-14,https://iptv.catvod.com/live.php?id=CCTV-14%20%E5%B0%91%E5%84%BF$订阅源
 CCTV-14,https://iptv.catvod.com/live.php?id=CCTV14$订阅源
 CCTV-14,https://iptv.catvod.com/live.php?id=CCTV-14$订阅源
@@ -51,6 +54,8 @@ CCTV-16,https://iptv.catvod.com/live.php?id=CCTV-16$订阅源
 CCTV-16,https://epg.pw/stream/c1beb2abcba5aef09c2f58efc3ca84b76de2c7b9cf60762b0d79772d9e70d454.m3u8$订阅源
 CCTV-17,https://iptv.catvod.com/live.php?id=CCTV17$订阅源
 CCTV-17,https://iptv.catvod.com/live.php?id=CCTV-17$订阅源
+CCTV-17,http://pull-hls-f11.douyincdn.com/media/stream-118948282823344812.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1773100588&major_anchor_level=common&sign=0a2a65437075fad16a3b5c028fce3936&t_id=037-202603030756275F53082918C89A46E14D-oDewtG$订阅源
+CCTV-17,http://pull-hls-f11.douyincdn.com/media/stream-407213179642053292.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1773619479&major_anchor_level=common&sign=bc2d4a3036fd27024f2c218c2fea7c91&t_id=037-202603090804382D2980E60B5163A589BB-tclVJX$订阅源
 
 📡卫视频道,#genre#
 广东卫视,https://iptv.catvod.com/live.php?id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86%E5%8F%B0$订阅源
