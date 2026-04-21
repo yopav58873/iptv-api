@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-04-19 18:41:56,https://iptv.catvod.com/live.php?id=CCTV4K%E8%B6%85%E9%AB%98%E6%B8%85&line=1$订阅源
+2026-04-21 19:09:24,https://iptv.catvod.com/live.php?id=CCTV4K%E8%B6%85%E9%AB%98%E6%B8%85&line=1$订阅源
 
 📺央视频道,#genre#
 CCTV-4,https://iptv.catvod.com/live.php?id=CCTV4K%E8%B6%85%E9%AB%98%E6%B8%85&line=1$订阅源
@@ -44,6 +44,8 @@ CCTV-13,https://epg.pw/stream/5d3d047c64e44d0a24dc33e5700e579457201d2960036b4381
 CCTV-14,https://iptv.catvod.com/live.php?id=CCTV-14%20%E5%B0%91%E5%84%BF$订阅源
 CCTV-14,https://iptv.catvod.com/live.php?id=CCTV14$订阅源
 CCTV-14,https://iptv.catvod.com/live.php?id=CCTV-14$订阅源
+CCTV-14,https://v.iill.top/api/CCTV14/index.m3u8$订阅源
+CCTV-14,https://v.iill.top/api/CCTV14/index.m3u8$订阅源
 CCTV-15,https://iptv.catvod.com/live.php?id=CCTV-15$订阅源
 CCTV-15,https://iptv.catvod.com/live.php?id=CCTV15$订阅源
 CCTV-16,https://iptv.catvod.com/live.php?id=CCTV16$订阅源
@@ -60,7 +62,6 @@ CCTV-17,https://iptv.catvod.com/live.php?id=CCTV-17$订阅源
 湖南卫视,https://iptv.catvod.com/live.php?id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86$订阅源
 湖南卫视,https://iptv.catvod.com/live.php?id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%864K%E5%8F%B0$订阅源
 湖南卫视,https://iptv.catvod.com/live.php?id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86%E5%8F%B0$订阅源
-湖南卫视,https://v.iill.top/api/hnws/index.m3u8$订阅源
 湖南卫视,https://v.iill.top/api/hnws/index.m3u8$订阅源
 北京卫视,https://iptv.catvod.com/live.php?id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86%E5%8F%B0$订阅源
 北京卫视,https://v.iill.top/api/bjws/index.m3u8$订阅源
